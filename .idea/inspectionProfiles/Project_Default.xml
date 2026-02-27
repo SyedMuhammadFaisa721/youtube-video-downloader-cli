@@ -1,0 +1,51 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="audioop-lts" />
+          <option value="beautifulsoup4" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="colorama" />
+          <option value="comtypes" />
+          <option value="distro" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="jiter" />
+          <option value="MouseInfo" />
+          <option value="openai" />
+          <option value="PyAudio" />
+          <option value="PyAutoGUI" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="PyGetWindow" />
+          <option value="PyMsgBox" />
+          <option value="pyperclip" />
+          <option value="pypiwin32" />
+          <option value="PyRect" />
+          <option value="PyScreeze" />
+          <option value="pyttsx3" />
+          <option value="pytweening" />
+          <option value="pywin32" />
+          <option value="requests" />
+          <option value="sniffio" />
+          <option value="soupsieve" />
+          <option value="SpeechRecognition" />
+          <option value="standard-aifc" />
+          <option value="standard-chunk" />
+          <option value="tqdm" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="wikipedia" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
